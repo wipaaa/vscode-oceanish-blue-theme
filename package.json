@@ -1,0 +1,21 @@
+{
+    "name": "oceanish-blue-theme",
+    "displayName": "Oceanish Blue Theme",
+    "description": "Just a simple weird oceanish blue color theme, was made for learning purpose.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "oceanish-blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/oceanish-blue-color-theme.json"
+            }
+        ]
+    }
+}
