@@ -18,5 +18,8 @@
 			}
 		]
 	},
-	"publisher": "wipaaaid"
+	"publisher": "wipaaaid",
+	"repository": {
+		"url": "https://github.com/wipaaa/vscode-oceanish-blue-theme"
+	}
 }
