@@ -1,5 +1,4 @@
 {
-	"publisher": "wipaaaid",
 	"name": "oceanish-blue-theme",
 	"displayName": "Oceanish Blue Theme",
 	"description": "Just a simple weird oceanish blue color theme, was made for learning purpose.",
@@ -18,5 +17,6 @@
 				"path": "./themes/oceanish-blue-color-theme.json"
 			}
 		]
-	}
+	},
+	"publisher": "wipaaaid"
 }
